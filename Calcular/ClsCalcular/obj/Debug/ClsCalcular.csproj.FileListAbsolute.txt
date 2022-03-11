@@ -1,0 +1,5 @@
+E:\Calcular\ClsCalcular\bin\Debug\ClsCalcular.dll
+E:\Calcular\ClsCalcular\bin\Debug\ClsCalcular.pdb
+E:\Calcular\ClsCalcular\obj\Debug\ClsCalcular.csprojResolveAssemblyReference.cache
+E:\Calcular\ClsCalcular\obj\Debug\ClsCalcular.dll
+E:\Calcular\ClsCalcular\obj\Debug\ClsCalcular.pdb

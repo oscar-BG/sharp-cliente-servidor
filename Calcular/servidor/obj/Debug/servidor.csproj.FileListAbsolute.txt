@@ -1,0 +1,16 @@
+E:\Calcular\servidor\bin\Debug\servidor.exe.config
+E:\Calcular\servidor\bin\Debug\servidor.exe
+E:\Calcular\servidor\bin\Debug\servidor.pdb
+E:\Calcular\servidor\obj\Debug\servidor.exe
+E:\Calcular\servidor\obj\Debug\servidor.pdb
+E:\Calcular\servidor\obj\Debug\servidor.csprojResolveAssemblyReference.cache
+E:\Calcular\servidor\bin\Debug\ClsCalcular.dll
+E:\Calcular\servidor\bin\Debug\ClsCalcular.pdb
+G:\Calcular\servidor\bin\Debug\servidor.exe.config
+G:\Calcular\servidor\obj\Debug\servidor.exe
+G:\Calcular\servidor\obj\Debug\servidor.pdb
+G:\Calcular\servidor\bin\Debug\servidor.exe
+G:\Calcular\servidor\bin\Debug\servidor.pdb
+G:\Calcular\servidor\bin\Debug\ClsCalcular.dll
+G:\Calcular\servidor\bin\Debug\ClsCalcular.pdb
+G:\Calcular\servidor\obj\Debug\servidor.csprojResolveAssemblyReference.cache

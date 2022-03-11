@@ -1,0 +1,14 @@
+E:\Cliente\Cliente\bin\Debug\Cliente.exe.config
+E:\Cliente\Cliente\bin\Debug\Cliente.exe
+E:\Cliente\Cliente\bin\Debug\Cliente.pdb
+E:\Cliente\Cliente\bin\Debug\ClsCalcular.dll
+E:\Cliente\Cliente\bin\Debug\ClsCalcular.pdb
+E:\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+E:\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+E:\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+E:\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+E:\Cliente\Cliente\obj\Debug\Cliente.exe
+E:\Cliente\Cliente\obj\Debug\Cliente.pdb
+G:\Cliente\Cliente\bin\Debug\Cliente.exe.config
+G:\Cliente\Cliente\obj\Debug\Cliente.exe
+G:\Cliente\Cliente\obj\Debug\Cliente.pdb
